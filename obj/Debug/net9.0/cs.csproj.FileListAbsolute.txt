@@ -1,0 +1,14 @@
+/home/anton/Desktop/programiranje/cs/bin/Debug/net9.0/cs
+/home/anton/Desktop/programiranje/cs/bin/Debug/net9.0/cs.deps.json
+/home/anton/Desktop/programiranje/cs/bin/Debug/net9.0/cs.runtimeconfig.json
+/home/anton/Desktop/programiranje/cs/bin/Debug/net9.0/cs.dll
+/home/anton/Desktop/programiranje/cs/bin/Debug/net9.0/cs.pdb
+/home/anton/Desktop/programiranje/cs/obj/Debug/net9.0/cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/anton/Desktop/programiranje/cs/obj/Debug/net9.0/cs.AssemblyInfoInputs.cache
+/home/anton/Desktop/programiranje/cs/obj/Debug/net9.0/cs.AssemblyInfo.cs
+/home/anton/Desktop/programiranje/cs/obj/Debug/net9.0/cs.csproj.CoreCompileInputs.cache
+/home/anton/Desktop/programiranje/cs/obj/Debug/net9.0/cs.dll
+/home/anton/Desktop/programiranje/cs/obj/Debug/net9.0/refint/cs.dll
+/home/anton/Desktop/programiranje/cs/obj/Debug/net9.0/cs.pdb
+/home/anton/Desktop/programiranje/cs/obj/Debug/net9.0/cs.genruntimeconfig.cache
+/home/anton/Desktop/programiranje/cs/obj/Debug/net9.0/ref/cs.dll
